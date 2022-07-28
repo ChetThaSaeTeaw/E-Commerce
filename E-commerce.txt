@@ -1,0 +1,9 @@
+Home page
+- Carousel Promotion C
+- Search Bar
+- Cart and My Cart
+- Category
+- Top product
+- Sale product
+- Card Items
+- Footer
